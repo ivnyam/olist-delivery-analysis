@@ -4,10 +4,7 @@
 **Dataset:** Olist Brazilian E-Commerce (100k orders, 2016–2018)  
 **Tools:** SQL (SQLite), Excel  
 **Purpose:** Portfolio project demonstrating demand analytics and 
-logistics operational insight — built as preparation for a growth 
-strategy role in SEA e-commerce logistics.
-![Regional delivery performance](visualisations/q2.png)
----
+logistics operational insight.
 
 ## Key Findings
 
@@ -17,11 +14,11 @@ rates exceeding 30% — compared to under 10% in São Paulo.
 
 **2. Peak campaign → service degradation**  
 Order volume spiked ~3× during Black Friday 2017. The average delivery time 
-increased by 1-3 during the peak days and late delivery rate jumped from 6.9% to 23.2% in the week following the peak.
+increased by 1-3 during the peak days, and the late delivery rate jumped from 6.9% to 23.2% in the week following the peak.
 
 **3. Late delivery costs review score points**  
 On-time orders average 4.29 stars. Late orders average 2.57 stars. 
-Orders arriving 7+ days late average 1.72 stars — a 2.42 point drop compared to on-time orders that directly impacts seller ratings and repeat purchase rates.
+Orders arriving 7+ days late average 1.72 stars — a 2.42 point drop compared to on-time orders, which directly impacts seller ratings and repeat purchase rates.
 
 **4. Same-day delivery is a seller behaviour problem**  
 36% of orders have a geographically local seller. Only 6.7% of sellers 
