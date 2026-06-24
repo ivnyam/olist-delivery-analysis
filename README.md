@@ -11,13 +11,13 @@ logistics operational insight.
 **1. Regional delivery gap**  
 Remote states deliver 2–3× slower than metro hubs, with late delivery 
 rates exceeding 30% — compared to under 10% in São Paulo.
-(q1_regional.png)
+!(q1_regional.png)
 
 
 **2. Peak campaign → service degradation**  
 Order volume spiked ~3× during Black Friday 2017. The average delivery time 
 increased by 1-3 during the peak days, and the late delivery rate jumped from 6.9% to 23.2% in the week following the peak.
-![Volume spike vs late delivery rate during Black Friday 2017](q2_peak_degradation.png)
+![Volume spike vs late delivery rate during Black Friday 2017](q2.png)
 
 
 **3. Late delivery costs review score points**  
