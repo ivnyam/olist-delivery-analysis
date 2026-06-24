@@ -6,7 +6,7 @@
 **Purpose:** Portfolio project demonstrating demand analytics and 
 logistics operational insight — built as preparation for a growth 
 strategy role in SEA e-commerce logistics.
-
+![Regional delivery performance](visualisations/q2.png)
 ---
 
 ## Key Findings
